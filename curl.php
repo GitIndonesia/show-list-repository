@@ -5,7 +5,7 @@
   // A token that you could generate from your own github 
   // go here https://github.com/settings/applications and create a token
   // then replace the next string
-  $token = 'd68d062eaf1de6bb1742b668d6236490e9f765db';
+  $token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
   // We generate the url for curl
   $curl_url = 'https://api.github.com/users/' . $user . '/repos';
