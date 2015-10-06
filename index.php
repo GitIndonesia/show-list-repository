@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Timex Studio on GitHub</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="microsoft.github.io/css/main.css"/>
     <link rel="stylesheet" href="microsoft.github.io/css/mscom.css"/>
     <link rel="stylesheet" href="microsoft.github.io/css/site.css"/>
